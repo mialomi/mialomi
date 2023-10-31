@@ -2,6 +2,7 @@
 <h3 align="center">A full-stack web developer</h3>
 
 - 🌱 I’m currently learning **Javascript, Typescript and React**
+- ⚡ Trained in **IT Academy Bootcamp** for Full-Stack Web Development
 
 
 <p align="left">

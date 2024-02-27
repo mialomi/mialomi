@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mia</h1>
 <h3 align="center">A full-stack web developer</h3>
 
-- 🌱 I’m currently learning **Javascript, Typescript and React**
+- 🌱 I’m currently learning **Javascript and exploring Cybersecurity**
 - ⚡ Trained in **IT Academy Bootcamp** for Full-Stack Web Development
 
 
